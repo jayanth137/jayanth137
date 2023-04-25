@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=40F700&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayanth+Koppala)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&pause=1000&color=40F700&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayanth+Koppala)](https://git.io/typing-svg)
 <h3 align="center">Full stack & blockchain developer | CTO at Imigrom Medaitech | Passionate about building innovative solutions for a better world 🚀 #blockchain #webdev #tech</h3>
 
 ![Alt Text](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
