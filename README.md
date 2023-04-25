@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jayanth Koppala</h1>
 <h3 align="center">Full stack & blockchain developer | CTO at Imigrom Medaitech | Passionate about building innovative solutions for a better world 🚀 #blockchain #webdev #tech</h3>
+![Alt Text](https://giphy.com/embed/2IudUHdI075HL02Pkk/giphy.gif)
+
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+  <p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanth137&label=Profile%20views&color=0e75b6&style=flat" alt="jayanth137" /> </p>
 
