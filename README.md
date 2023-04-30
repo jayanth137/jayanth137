@@ -4,7 +4,7 @@
 
 ![Alt Text](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
-  <p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+  <p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">viaGIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanth137&label=Profile%20views&color=0e75b6&style=flat" alt="jayanth137" /> </p>
 
