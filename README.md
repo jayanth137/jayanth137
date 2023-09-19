@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayanthkoppala" target="blank"><img src="https://img.shields.io/twitter/follow/jayanthkoppala?logo=twitter&style=for-the-badge" alt="jayanthkoppala" /></a> </p>
 
-- 🔭 I’m currently working on [ThetaQuest](https://github.com/Thetaquest)
+- 🔭 I’m currently working on <b>Solidity, React, Flutter, Nodejs, Nextjs</b>
 
 - 🌱 I’m currently learning **Web3.js, Solidity development,  Smart Contracts**
 
